@@ -1,0 +1,852 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<head>
+
+
+
+    <meta charset="UTF-8">
+
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+    <meta name="keywords" content="空想影视,VFX,FantasyVFX">
+
+
+
+    <meta name="description" content="空想影视FantasyVFX官网">
+
+
+
+    <meta name="author" content="HermanR">
+
+
+
+    <meta content="yes" name="apple-mobile-web-app-capable" />
+
+
+
+    <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+
+
+
+    <meta content="telephone=no" name="format-detection" />
+
+
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="templates4_5/ue_content/templates/css/lib.css" ">
+
+
+
+    <link rel="stylesheet" type="text/css"  href="templates4_5/ue_content/templates/css/style.css" ">
+
+
+
+    <link rel="stylesheet" type="text/css" href="../resources.jsmo.xin/templates/upload/editorPageStyle.css" ">
+
+    <link rel="stylesheet" type="text/css"  href="templates4_5/ue_content/templates/css/style/16973.css" ">
+
+
+
+    
+
+
+    <link id="ucssurl" rel="stylesheet" type="text/css"  href="../resources.jsmo.xin/templates/upload/16973/16973.css" ">
+
+
+
+    
+
+
+    <script type="text/javascript" src="../code.uemo.net/script/jquery-1.11.3.min.js" "></script>
+
+
+
+    <script>$(function(){if(!$("#mindex").length){$('body').addClass('sscreen')}})</script>    
+
+
+
+    
+
+
+    <script type="text/javascript" src="templates4_5/ue_content/templates/script/org.new.min.js" " data-main="indexMain"></script>
+
+
+
+    
+
+
+    <script type="text/javascript" src="templates4_5/ue_content/templates/script/form.min.js" "></script>
+
+
+
+    <script type="text/javascript" src="templates4_5/ue_content/templates/script/plugs.js" "></script>
+
+
+
+    <title>FantasyVFX</title>
+
+
+
+    <script>
+
+
+
+            
+
+
+
+    </script>
+
+
+
+    <script type="text/javascript" src="templates4_5/ue_content/templates/script/u/16973.js" "></script>
+
+
+
+ 
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class=" agent-pc agent_pc longPage  bodyindex  cn" data-uid="16973">
+
+
+
+    <div class="bodyMask"></div>
+
+
+
+    <div id="mindex" data-options-ease="Expo.easeInOut" data-options-speed="1" data-options-sscreen="0"></div>
+
+
+
+    <div id="header" class="index_nav">
+
+
+
+        <div class="content">
+
+
+
+            <a href="index.htm" " id="logo">
+
+
+
+                <img src="../resources.jsmo.xin/templates/upload/16973/201909/1567409257254.png" " height="40" />
+
+
+
+            </a>
+
+
+
+            <ul id="nav">
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a  active " href="index.htm" " target="_self">
+
+
+
+                        
+
+
+                            <span  data-title="首页">首页</span>
+
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a " href="list/id/190421/index.htm" " target="_self">
+
+
+
+                        
+
+
+                            <span data-title="参与作品">参与作品</span>
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a " href="" " target="_self">
+
+
+
+                        
+
+
+                            <span data-title="视频宣传">视频宣传</span>
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a " href="javascript:;" target="">
+
+
+
+                        
+
+
+                            <span data-title="关于">关于</span><i class="fa fa-angle-down"></i>
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                        <ul class="subnav">
+
+
+
+                            
+
+
+                            <li>
+
+
+
+                                <a href="" " target="_self">
+
+
+
+                                    <span data-title="关于我们">关于我们</span>
+
+
+
+                                    <i class="fa fa-angle-right"></i>
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            
+
+
+                            <li>
+
+
+
+                                <a href="" " target="_self">
+
+
+
+                                    <span data-title="团队理念">团队理念</span>
+
+
+
+                                    <i class="fa fa-angle-right"></i>
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            
+
+
+                            <li>
+
+
+
+                                <a href="" " target="_self">
+
+
+
+                                    <span data-title="团队">团队</span>
+
+
+
+                                    <i class="fa fa-angle-right"></i>
+
+
+
+                                </a>
+
+
+
+                            </li>
+
+
+
+                            
+
+
+                        </ul>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a " href="" " target="_self">
+
+
+
+                        
+
+
+                            <span data-title="新闻">新闻</span>
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+                <li class="navitem">
+
+
+
+                    <a class="nav-a " href="" " target="_self">
+
+
+
+                        
+
+
+                            <span data-title="联系">联系</span>
+
+
+                        
+
+
+                    </a>
+
+
+
+                    
+
+
+                </li>
+
+
+
+                
+
+
+            </ul>
+
+
+
+            <div class="clear"></div>
+
+
+
+        </div>
+
+
+
+        <a id="headSHBtn" href="javascript:;"><i class="fa fa-bars"></i></a>
+
+
+
+    </div>
+
+
+
+    <div id="sitecontent">
+
+
+
+
+
+<div id="indexPage">
+
+    <div id="mslider" class="module">
+
+        <script type="text/javascript">$(function(){$("#mslider li video").each(function(index, element) {element.play();});})</script>
+
+        <ul class="slider" data-options-height="700" data-options-auto="1" data-options-mode="0" data-options-pause="4" data-options-ease="ease-out">
+
+            
+            
+
+                <li   class="active">
+
+                    <div id="tempImage_0"></div>
+
+                    
+                    <video width="100%" height="100%"  loop preload="auto" muted autoplay class="slider-video"  style="width:100%; height:auto;" src="../resources.jsmo.xin/templates/upload/16973/201909/1567648057731.mp4" "></video>
+
+                    
+                    <!-- 0 -->
+
+                    
+                    <a target="_blank" href="javascript:;">
+
+                        <div  class="description" style="vertical-align:middle; text-align:center">
+
+                            <p class="title ellipsis">Fantasy VFX 空想影视</p>
+                            <p class="subtitle">空想影视文化传媒有限公司</p>
+                        </div>
+
+                        <div class="sliderArrow fa fa-angle-down"></div>
+
+                    </a>
+
+                </li>
+
+            
+            
+
+                
+
+            
+            
+
+               
+
+            
+        </ul>
+
+    </div>
+
+    
+        <div id="mteam" class="module " data-layout="layoutslider"
+
+style="
+
+  background-position: initial;background-size: cover;background-repeat: no-repeat; 
+
+ 
+ 
+ " >
+  
+  <div class="bgmask"></div>
+
+  <div class="content layoutslider">
+
+    <div class="header wow">
+
+      <p class="title">团队</p>
+
+      
+      <p class="subtitle">Team</p>
+
+      </div>
+
+       
+    <div class="module-content fw">
+
+      <div class="wrapper">
+
+        <ul class="content_list" data-options-sliders="1" data-options-margin="60" data-options-ease="1" data-options-speed="0" data-options-mode="horizontal" data-options-wheel="0">
+
+            
+          <li id="teamitem_0"  class="wow">
+
+            <a class="item_box hide" href="list/post/931098/index.htm" " target="_blank"></a>
+
+            <div class="header wow" data-wow-delay=".2s"><a href="list/post/931098/index.htm" " target="_blank"><img src="../resources.jsmo.xin/templates/upload/16973/201909/1567408034668.jpg" " alt="吕佳洋" width="180" height="180" /></a></div>
+
+            <div class="summary wow">
+
+              <p class="title"><a href="" ">首席执行官 吕佳洋</a></p>
+
+              
+              <p class="subtitle"> LvGuan </p>
+
+              
+              <p class="description wow">
+
+              浙江空想实业集团董事长、香港空想投资控股集团董事长、黑龙江厦世房地产开发有限公司董事长、黑龙江追光文化首席执行官、空想影视文化传媒有限公司首席执行官、空想网络科技有限公司股东、黑龙江空想电子竞技有限公司股东。</p>
+
+            </div>
+
+            <a href="list/post/931098/index.htm" " target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+
+          </li>
+
+          
+          <li id="teamitem_1"  class="wow">
+
+            <a class="item_box hide" href="list/post/931087/index.htm" " target="_blank"></a>
+
+            <div class="header wow" data-wow-delay=".2s"><a href="list/post/931087/index.htm" " target="_blank"><img src="../resources.jsmo.xin/templates/upload/16973/201909/1567408112692.jpg" " alt="申明泽" width="180" height="180" /></a></div>
+
+            <div class="summary wow">
+
+              <p class="title"><a href="list/post/931087/index.htm" ">视效总监 申明泽</a></p>
+
+              
+              <p class="subtitle"> MingZe</p>
+
+              
+              <p class="description wow">
+
+              前工业光魔合成师、18年工作经验。参与制作过:《变形金刚》系列2-4部 《阿凡达》《复仇者联盟》《红色机尾》<br>《星际穿越》《美队队长2：冬日战士》《科洛弗档案》《长城》《碟中谍4》《奇异博士》《雷神3》等影视作品&nbsp;&nbsp;</p>
+
+            </div>
+
+            <a href="" " target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+
+          </li>
+
+          
+
+
+          
+        </ul>
+
+      </div>
+
+    </div>
+
+    <div class="clear"></div>
+
+    <a href="list/id/190414/index.htm" " class="more wow">MORE<i class="fa fa-angle-right"></i></a>
+
+  </div>
+
+</div>
+
+
+ 
+
+    
+        <style type="text/css">
+.module.mcounter.mm{ background-color:}
+.module.mcounter.mm ul.content_list{ padding-top: px;padding-bottom: px;}
+.module.mcounter.mm ul.content_list li{ width:%}
+.module.mcounter.mm ul.content_list li div{border-color: ;}
+.module.mcounter.mm ul.content_list li p{color: ;}
+.module.mcounter.mm ul.content_list li p.number .counterDX{color: ;}
+.module.mcounter.mm ul.content_list li p.number .unit{color: ;}
+</style>
+<div class="mcounter module mm"> 
+      <div class="bgmask"></div>
+   <div class="content">
+       <!--<div class="header wow">
+          <p class="title"></p>
+                 </div>-->
+       <div class="module-content fw">
+           <div class="wrapper">
+               <ul class="content_list">
+                
+                  <li>
+                      <div>
+                        <p class="number"><span class="counterDX" data-counter-value="2018">2018</span><span class="unit">年</span></p>
+                        <p class="title">公司成立</p>
+                      </div>
+                  </li>
+                
+                  <li>
+                      <div>
+                        <p class="number"><span class="counterDX" data-counter-value="57">57</span><span class="unit">项</span></p>
+                        <p class="title">参与项目</p>
+                      </div>
+                  </li>
+                
+                  <li>
+                      <div>
+                        <p class="number"><span class="counterDX" data-counter-value="6">6</span><span class="unit">个</span></p>
+                        <p class="title">获奖数量</p>
+                      </div>
+                  </li>
+                
+                  <li>
+                      <div>
+                        <p class="number"><span class="counterDX" data-counter-value="0">0</span><span class="unit"></span></p>
+                        <p class="title"></p>
+                      </div>
+                  </li>
+                              </ul>
+           </div><!--wrapper-->
+      </div>
+  </div>
+</div><!--mcounter-->
+ 
+
+    
+        <div id="mproject" class="module" data-layout="layoutmasonry" 
+
+style="
+
+  background-position: initial;background-size: cover;background-repeat: no-repeat; 
+
+  
+
+ 
+ " >
+     <div class="bgmask"></div>
+   <div class="content layoutmasonry">
+       <div class="header wow">
+          <p class="title">参与项目</p>
+          <p class="subtitle">多元化项目，接轨好莱坞</p>
+       </div>
+              <div id="category" class="hide wow">
+                      <a href="" " class="active">全部</a>
+                      <a href="" ">欧洲项目</a>
+                      <a href="" ">俄罗斯、韩国项目</a>
+                      <a href="list/id/190421/index.htm" ">美国项目</a>
+                      <a href="" ">中国项目</a>
+                              
+            <a href="list/id/190418/index.htm" " class="hide more wow">更多<i class="fa fa-angle-right"></i></a>
+       </div>
+              <!--yyLayout masonry-->
+       <div class="module-content" id="projectlist">
+           <div class="projectSubList">
+                 <div id="projectlist"  class="module-content">
+      <div class="wrapper">
+        <ul class="content_list" data-options-sliders="3" data-options-margin="30" data-options-ease="1" data-options-speed="1">
+                        <li class="projectitem"><a href="../../post/962716/index.htm" " target="_blank">
+              <div class="project_img"><img src="../resources.jsmo.xin/templates/upload/16973/201909/156740745283.jpg" " width="500" height="320"/></div>
+              <div class="project_info">
+                <div>
+                  <p class="title">美国队长3：内战</p>
+                  <p class="subtitle">Captain America: Civil War</p>
+                  <p class="description hide">1，[1] &nbsp;2</p>
+                </div>
+              </div>
+              </a>
+              <a href="../../post/962716/index.htm" " target="_blank" class="details">more<i class="fa fa-angle-right"></i></a>
+            </li>
+                    </ul>
+       </div><!--wrapper-->
+            </div><!--projectSubList-->            
+            <a href="list/id/190418/index.htm" " class="more wow">MORE<i class="fa fa-angle-right"></i></a>
+       </div>
+       <!--projectlist-->
+       <div class="clear"></div>
+   </div>
+</div><!--project-->
+
+ 
+
+    
+        <style type="text/css">
+
+#indexPage .module.mvideom.mm{ background-color:}
+
+.module.mvideom.mm .content{ padding-top: px; padding-bottom: px;}
+
+.module.mvideom.mm ul.content_list li{ width:%}
+
+.module.mvideom.mm ul.content_list li .wrap{margin-right:px; }
+
+.module.mvideom.mm ul.content_list li{margin-bottom:px}
+
+.module.mvideom.mm ul.content_list {margin-right:-px}
+
+
+</style>
+
+
+ 
+ 
+
+    
+        <div id="mnews" class="module " data-layout="layoutnone"
+
+style="
+
+  background-position: initial;background-size: cover;background-repeat: no-repeat; 
+
+ 
+ 
+
+    
+        
+
+<div id="mpartner" class="module" data-layout="layoutslider" 
+
+style="
+
+  background-position: initial;background-size: cover;background-repeat: no-repeat; 
+
+  
+
+ 
+ " >
+     <div class="bgmask"></div>
+  <div class="content layoutslider">
+    <div class="header wow fw" data-wow-delay=".1s">
+        <p class="title">合作伙伴</p>
+            </div>
+  
+  </div>
+</div>
+
+
+ 
+
+    
+        <div id="mcontact" class="module" data-layout="layoutnone" >
+     <div class="bgmask"></div>
+  <div class="content">
+    <div class="header wow fadeInUp fw" data-wow-delay=".1s">
+        <p class="title">联系</p>
+        <p class="subtitle">Contact</p>
+    </div>
+    <div id="contactlist" class="fw">
+      <div id="contactinfo" class="fl wow" data-wow-delay=".2s">
+      
+        <h3 class="ellipsis name">空想影视文化传媒有限公司有限公司</h3>
+                <p class="ellipsis add"><span>地点：</span>银河系新云太阳系第三行星北半球中华人民共和国</p>
+                        <p class="ellipsis zip"><span>邮编：</span>100000</p>
+                        <p class="ellipsis tel"><span>电话：</span>173-4372-3351</p>
+                        <p class="ellipsis mobile"><span>手机：</span>173-4372-3351 / 182-4980-5088</p>
+                        <p class="ellipsis email"><span>邮箱：</span>HermanR@foxmail.com</p>
+                <div><a class="fl" target="_blank" href="javascript:if(confirm(%27http://weibo.com/web  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://weibo.com/web%27" "><i class="fa fa-weibo"></i></a> <a id="mpbtn" class="fl" href="javascript:if(confirm(%27http://resources.jsmo.xin/templates/upload/1/201508/1438424052624.jpg  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://resources.jsmo.xin/templates/upload/1/201508/1438424052624.jpg%27" "><i class="fa fa-weixin"></i></a></div>
+      
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+
+     
+
+</div>
+
+</div>
+
+
+<div id="footer"> <p>COPYRIGHT (©) 2021 HermanR 版权所有. <a class="beian" href="javascript:if(confirm(%27https://beian.miit.gov.cn/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://beian.miit.gov.cn/%27" " style="display:inline; width:auto; color:#8e8e8e" target="_blank"> </a></p></div><div id="shares"><a id="sshare"><i class="fa fa-share-alt"></i></a><a href="javascript:if(confirm(%27http://service.weibo.com/share/share.php?appkey=3206975293&  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://service.weibo.com/share/share.php?appkey=3206975293&%27" " target="_blank" id="sweibo"><i class="fa fa-weibo"></i></a><a href="javascript:;" id="sweixin"><i class="fa fa-weixin"></i></a><a href="javascript:;" id="gotop"><i class="fa fa-angle-up"></i></a></div><div class="fixed" id="fixed_weixin"><div class="fixed-container"><div id="qrcode"></div><p>扫描二维码分享到微信</p></div></div><div id="online_open"><i class="fa fa-comments-o"></i></div><div id="online_lx"><div id="olx_head">在线咨询<i class="fa fa-times fr" id="online_close"></i></div><ul id="olx_qq"><li><a href=""><i class="fa fa-qq"></i></a></li></ul><div id="olx_tel"><div><i class="fa fa-phone"></i>联系电话</div><p>17343724451<br /></p></div></div> <div class="hide">
+
+
+
+
+
+</div></body></html>
+
+
+
